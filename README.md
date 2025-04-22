@@ -46,9 +46,9 @@ pip install -r requirements.txt
 ### Passo a passo:
 
 #### 1. Clone o repositório:
-```bash
-git clone https://github.com/seuusuario/irrigacao_inteligente.git
-cd irrigacao_inteligente
+```bash[
+git clone https://github.com/seuusuario/Python-e-al-m.git
+cd Python-e-al-m
 ```
 
 #### 2. Configure a conexão com o banco Oracle:
